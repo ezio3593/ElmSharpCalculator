@@ -1,0 +1,11 @@
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\obj\Debug\netcoreapp2.0\ElmSharpCalculator.csprojAssemblyReference.cache
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\obj\Debug\netcoreapp2.0\ElmSharpCalculator.csproj.CoreCompileInputs.cache
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\obj\Debug\netcoreapp2.0\ElmSharpCalculator.AssemblyInfoInputs.cache
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\obj\Debug\netcoreapp2.0\ElmSharpCalculator.AssemblyInfo.cs
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\bin\Debug\netcoreapp2.0\ElmSharpCalculator.deps.json
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\bin\Debug\netcoreapp2.0\ElmSharpCalculator.runtimeconfig.json
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\bin\Debug\netcoreapp2.0\ElmSharpCalculator.runtimeconfig.dev.json
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\bin\Debug\netcoreapp2.0\ElmSharpCalculator.dll
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\bin\Debug\netcoreapp2.0\ElmSharpCalculator.pdb
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\obj\Debug\netcoreapp2.0\ElmSharpCalculator.dll
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\obj\Debug\netcoreapp2.0\ElmSharpCalculator.pdb

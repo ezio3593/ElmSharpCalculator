@@ -1,0 +1,5 @@
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\bin\Debug\netcoreapp2.0\tpkroot\bin\ElmSharpCalculator.dll
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\bin\Debug\netcoreapp2.0\tpkroot\bin\ElmSharpCalculator.pdb
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\bin\Debug\netcoreapp2.0\tpkroot\shared\res\ElmSharpCalculator.png
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\bin\Debug\netcoreapp2.0\tpkroot\tizen-manifest.xml
+C:\Users\k.baladurin\Documents\Visual Studio 2017\Projects\ElmSharpCalculator\ElmSharpCalculator\bin\Debug\netcoreapp2.0\org.tizen.example.ElmSharpCalculator-1.0.0.tpk
